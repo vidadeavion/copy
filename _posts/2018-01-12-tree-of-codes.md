@@ -1,18 +1,37 @@
 ---
-layout: post
-title:  "Tree of Codes"
+
+## layout: post
+title:  "Updated Connection Requests (DFY-operational framing)"
 author: sal
-categories: [ Jekyll, tutorial ]
-image: assets/images/2.jpg
+categories: [ Operations, Agency, Scaling ]
+image: assets/images/default.jpg
+
+### Version 1 — clean + strongest baseline
+
+Your agency’s delivery system is likely hitting a point where content output can’t keep up with client demand.
+
+When we connect, I’ll show how we operate the system that fixes that kind of bottleneck in live agency environments.
+
 ---
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+### Version 2 — sharper “we run it” signal
 
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+Most agency delivery teams eventually hit a ceiling where output lags behind client demand.
 
+When we connect, I’ll break down how we operate the delivery layer that resolves that in practice.
 
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”. 
+---
 
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
+### Version 3 — more explicit DFY positioning (no jargon)
 
+Your delivery operation is probably starting to strain under client demand at the output level.
+
+When we connect, I’ll show how we step in and run the delivery process that removes that bottleneck.
+
+---
+
+### Version 4 — minimal, high authority
+
+Agency delivery teams often hit an output ceiling under load.
+
+When we connect, I’ll show how we operate the delivery layer that fixes it.
