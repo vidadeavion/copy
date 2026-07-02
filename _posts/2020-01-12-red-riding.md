@@ -1,16 +1,53 @@
 ---
 layout: post
-title:  "Red Riding Hood"
+title:  "InMails (DFY → her outcome, no diagnosis, no teaching)"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/3.jpg
 ---
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
 
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”. 
+## InMail 1
 
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+Subject: for your content delivery team
 
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
+Body:
+This is for agencies where content demand has already outgrown internal delivery.
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+We step in and run the content delivery side so output keeps moving without adding load to your team.
+
+If you want, I can show you how we handle that in setups like yours.
+
+Reply “in” and I’ll send it over.
+
+## InMail 2
+
+Subject: for when your team is already at capacity
+
+Body:
+This is built for agencies where the delivery team is already fully loaded and content still needs to ship consistently.
+
+We take over the delivery execution so your team isn’t carrying that pressure.
+
+If you want to see how it works in practice, reply and I’ll show you.
+
+## InMail 3
+
+Subject: for your delivery layer
+
+Body:
+This is for agencies that need their content delivery handled externally because internal teams are already at capacity.
+
+We run that delivery layer directly so output stays consistent without adding internal strain.
+
+If you want access to that setup, reply “yes.”
+
+## InMail 4
+
+Subject: for agencies past the content bottleneck
+
+Body:
+This is for agencies that have already hit the point where content delivery can’t be handled internally at the same pace as demand.
+
+We step in and operate that delivery side so content continues to ship without slowing your team down.
+
+If you want me to walk you through how that’s set up, just reply.
