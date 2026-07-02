@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "InMails (DFY → her outcome, no diagnosis, no teaching)"
+title:  "LinkedIn / Cold Outreach / InMails"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/3.jpg
