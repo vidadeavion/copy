@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Updated Connection Requests (DFY-operational framing)"
-author: sal
-categories: [ Operations, Agency, Scaling ]
+title:  "LinkedIn / Cold Outreach / Connection Requests"
+author: troyburney
+categories: [ Outreach, LinkedIn ]
 image: assets/images/5.jpg
 ---
 
