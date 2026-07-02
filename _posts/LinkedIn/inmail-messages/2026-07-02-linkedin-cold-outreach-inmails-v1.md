@@ -2,7 +2,7 @@
 layout: post
 title:  "LinkedIn / Cold Outreach / InMails / v1"
 author: troyburney
-categories: [ Outreach, LinkedIn ]
+categories: [ Outreach, LinkedIn, InMail ]
 image: assets/images/3.jpg
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "LinkedIn / Cold Outreach / InMails / v2"
 author: troyburney
-categories: [ Outreach, LinkedIn ]
+categories: [ Outreach, LinkedIn, InMail ]
 image: assets/images/3.jpg
 ---
 
@@ -35,7 +35,7 @@ This is for agencies that need their content delivery handled externally once in
 
 We run that layer directly so output stays consistent without adding internal strain.
 
-If you want, I can map how it would work in your setup. Quick call?
+Happy to walk you through how we’d set that up for you. Worth a quick call?
 
 ## InMail 4 (for agencies past the content bottleneck)
 
